@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Headless Tests across re
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps:
 
 In `conf/single.conf.js` file, you need to update your capabilities. You need to set the `headless` capability to run browser in headless mode. The capabilities would look something like this:
